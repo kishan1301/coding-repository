@@ -1,0 +1,10 @@
+package assignments;
+
+public class FibonacciSeries {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
