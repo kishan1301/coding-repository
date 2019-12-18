@@ -1,9 +1,9 @@
-package com.nucleus.mains;
+package com.photon.mains;
 
 import java.util.Scanner;
 
-import com.nucleus.POJO.Employee;
-import com.nucleus.POJO.Manager;
+import com.photon.POJO.Employee;
+import com.photon.POJO.Manager;
 
 public class MultiLevelDriverClass {
 
